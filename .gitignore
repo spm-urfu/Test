@@ -1,0 +1,10 @@
+.env
+*.log
+*.tmp
+*.swp
+node/modules/
+venv/
+credentials.json
+*.pyc
+*.class
+build/
